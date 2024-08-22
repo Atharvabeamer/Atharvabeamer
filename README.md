@@ -13,7 +13,6 @@
 
 - 🤝 I’m looking for help with **Ai and Blockchain development**
 
-- 💬 Ask me about **Dsa and Web3**
 
 - 📫 How to reach me **atharava2085admile@gmail.com**
 
