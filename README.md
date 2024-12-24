@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/atharva_admile/" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/atharva_admile/?logo=twitter&style=for-the-badge" alt="https://x.com/atharva_admile/" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain development**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Ai, Frontend and Blockchain development**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Freelanching project on Blockchain Projects**
 
-- 🤝 I’m looking for help with **Ai and Blockchain development**
+- 🤝 I’m looking for help with ****
 
 
-- 📫 How to reach me **atharava2085admile@gmail.com**
+- 📫 How to reach me **atharvaadmile2704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
